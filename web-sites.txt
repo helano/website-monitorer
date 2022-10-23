@@ -1,0 +1,4 @@
+https://httpstat.us/500?
+https://www.google.com
+https://www.youtube.com
+https://www/alura.com.br
